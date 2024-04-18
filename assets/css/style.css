@@ -305,7 +305,7 @@ input,focus {
 .brand__link img {
 }
 .brand__area {
-  padding-bottom: 56px;
+  padding-bottom: 84px;
   position: relative;
 }
 
@@ -1313,7 +1313,6 @@ input,focus {
   border-radius: 10px;
 }
 .frequents-item:first-child button {
-  background: ;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
@@ -1383,6 +1382,198 @@ input,focus {
 
 
 
+/* page four start here *//* page four start here *//* page four start here *//* page four start here *//* page four start here */
+/* page four start here *//* page four start here *//* page four start here *//* page four start here *//* page four start here */
+
+/* service area start here */
+/* service area start here */
+
+#service__two {
+	padding-bottom: 58px;
+	padding-top: 20px;
+}
+.page__four .service__content {
+	gap: 24px;
+}
+.page__four .service__txt {
+	width: 59.6%;
+}
+.page__four .service__txt p {
+	color: #212529;
+}
+.page__four .service__img {
+	width: 39.4%;
+}
+.page__four .service__top {
+	margin-bottom: 20px;
+}
+.page__four .service__top span {
+	color: #6C757D;
+}
+.page__four .lojas__sec{
+  color: #6C757D !important;
+  text-decoration: none !important;
+}
+.page__four .service__top a {
+	color: #095224;
+	font-weight: 400;
+	text-decoration: underline;
+}
+
+/* service area end here */
+/* service area end here */
 
 
 
+
+
+/* product area start here */
+/* product area start here */
+
+#popular__product.page__four {
+	padding-bottom: 56px;
+}
+.page__four .area__intro {
+	margin-bottom: 32px;
+	align-items: center;
+}
+.page__four .area__intro p {
+	margin-bottom: 0;
+	color: #212529;
+	font-weight: 300;
+}
+.page__four .area__intro h2 {
+	font-size: 28px;
+  font-weight: 400;
+	margin-bottom: 8px;
+}
+.page__four .single__product {
+	margin-bottom: 24px;
+}
+.page__four .single__product img {
+	width: 100%;
+}
+.page__four .single__product {
+	margin-bottom: 24px;
+	padding: 10px;
+	background: #fff;
+	border: 1px solid #DAE5DE;
+	border-radius: 10px;
+}
+.page__four .search__bar input {
+	width: 331px;
+	height: 38px;
+	padding: 7px 13px;
+	border: 1px solid #095224;
+	border-radius: 4px;
+}
+.page__four .search__bar button {
+	width: 77px;
+	height: 38px;
+	background: #095224;
+	border: none;
+	color: #fff;
+	border-radius: 4px;
+}
+.single__item {
+  display: flex;
+	aspect-ratio: 1;
+	background: #fff;
+	border: 1px solid #DAE5DE;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	margin-bottom: 16px;
+}
+.product__active.owl-carousel.owl-loaded.owl-drag {
+	display: none;
+}
+
+/* product area end here */
+/* product area end here */
+
+
+
+
+/* pagination area start here */
+/* pagination area start here */
+
+.pagination__area.page-four {
+	padding-bottom: 80px;
+}
+.pagination__custom li {
+  display: inline-block;
+  margin-left: 3px;
+  margin-bottom: 8px;
+}
+.pagination__custom li:last-child a{
+  width: 80px;
+}
+.pagination__custom li a {
+	display: flex;
+	width: 60px;
+	height: 56px;
+	font-size: 20px;
+	border: 1px solid #DEE2E6;
+	justify-content: center;
+	align-items: center;
+	color: #095224;
+	font-weight: 300;
+	transition: .3s;
+}
+.pagination__custom li a:hover{
+  color: #fff;
+  background: #095224;
+}
+
+/* pagination area end here */
+/* pagination area end here */
+
+
+
+
+/* brand area start here */
+/* brand area start here */
+
+.brand__listing {
+	display: flex;
+	gap: 55px;
+	align-items: start;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #DEE3DA;
+}
+.brand__listing.list__two {
+	padding-top: 57px;
+}
+.listing__a {
+	display: flex;
+	gap: 90px;
+}
+.group__b {
+	display: flex;
+	gap: 55px;
+}
+.brand__listing h1 {
+	font-size: 80px;
+	font-weight: 300;
+	color: #095224;
+	line-height: 57px;
+}
+.listing__a ul {
+	width: 110px;
+}
+.listing__a ul li a {
+	font-size: 20px;
+	font-weight: 300;
+	color: #495057;
+	margin-bottom: 10px;
+	display: block;
+}
+
+/* brand area end here */
+/* brand area end here */
+
+/* page four end here *//* page four end here *//* page four end here *//* page four end here *//* page four end here */
+/* page four end here *//* page four end here *//* page four end here *//* page four end here *//* page four end here */
