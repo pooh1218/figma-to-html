@@ -1382,6 +1382,48 @@ input,focus {
 
 
 
+/* catagory desk start here */
+/* catagory desk start here */
+
+#catagory__desk {
+	padding-bottom: 46px;
+  display: block;
+}
+#catagory__desk .single__catagory {
+	background: #095224;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 10px;
+	border-radius: 10px;
+	width: 18.88%;
+	margin-bottom: 18px;
+}
+#catagory__desk .catagory__content {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+#catagory__desk .cat__txt h3 {
+	font-size: 16px;
+	color: #fff;
+	font-weight: 500;
+  margin-bottom: 4px;
+}
+#catagory__desk .cat__txt span {
+	color: #F8F9FA;
+	font-size: 12px;
+	display: block;
+  font-weight: 500;
+}
+
+/* catagory desk end here */
+/* catagory desk end here */
+
+
+
+
+
 /* page four start here *//* page four start here *//* page four start here *//* page four start here *//* page four start here */
 /* page four start here *//* page four start here *//* page four start here *//* page four start here *//* page four start here */
 
@@ -1577,3 +1619,14 @@ input,focus {
 
 /* page four end here *//* page four end here *//* page four end here *//* page four end here *//* page four end here */
 /* page four end here *//* page four end here *//* page four end here *//* page four end here *//* page four end here */
+
+
+
+
+
+
+
+
+
+
+

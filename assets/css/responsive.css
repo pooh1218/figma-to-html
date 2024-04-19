@@ -286,6 +286,27 @@
   /* page four area end here */
 
 
+
+
+
+
+
+  /* catagory desk start here */
+  /* catagory desk start here */
+
+  #catagory__desk .single__catagory {
+    width: 23.555%;
+  }
+
+  /* catagory desk end  here */
+  /* catagory desk end here */
+
+
+
+
+
+
+
 }
 
 
@@ -602,6 +623,23 @@
 
 
 
+
+
+
+  
+  /* catagory desk start here */
+  /* catagory desk start here */
+
+  #catagory__desk .single__catagory {
+    width: 31.555%;
+    margin-bottom: 0;
+  }
+  #catagory__desk .catagory__content {
+    justify-content: start;
+    gap: 19px;
+  }
+  /* catagory desk end  here */
+  /* catagory desk end here */
 
 
 
@@ -1370,6 +1408,23 @@
   /* page four area end here */
 
 
+
+
+
+  /* catagory desk start here */
+  /* catagory desk start here */
+
+  #catagory__desk {
+    display: none;
+  }
+  /* catagory desk end  here */
+  /* catagory desk end here */
+
+
+
+
+
+
 }
 
 
@@ -1487,6 +1542,19 @@
 
   /* page four area end here */
   /* page four area end here */
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
 
